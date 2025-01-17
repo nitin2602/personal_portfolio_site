@@ -6,7 +6,7 @@ import Markdown from "react-markdown";
 import { Marquee } from "@/components/animated/Marquee";
 
 import { CourseCard } from "@/containers/CourseCard";
-import { ResumeCard } from "@/containers/ResumeCard";
+
 import { ProjectCard } from "@/containers/ProjectCard";
 
 import { Icons } from "@/components/icons/Icons";
