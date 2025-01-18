@@ -12,7 +12,7 @@ export const DATA = {
 	description:
 		"3rd-year 🎓 grad with a knack for creating 💡 and constantly learning 📚. Obsessed with tech 💻, design systems 🎨, and that new framework smell 🚀.",
 	summary:
-		"I began my engineering journey in 2021 and am currently Learning Gen-AI . I’m also enhancing my Competetive programming skills.",
+		"I began my engineering journey in 2022 and am currently Learning Gen-AI . I’m also enhancing my Competetive programming skills.",
 	avatarUrl: "/profile.jpg",
 
 	navbar: [
